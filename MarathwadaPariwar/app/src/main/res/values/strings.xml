@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Marathwada Pariwar</string>
+    <string-array name="titles">
+        <item>ममीपचे व्हिजन , मिशन आणि व्हॅल्यूज</item>
+        <item>ममीपची कार्यकारिणी</item>
+        <item>ममीप अभियंता</item>
+        <item>ममीप डॉक्टर</item>
+        <item>ममीप वकील</item>
+        <item>ममीप पत्रकार</item>
+        <item>ममीप शासकीय अधिकारी</item>
+        <item>ममीप आयटी</item>
+        <item>ममीप प्राध्यापक</item>
+        <item>ममीप व्यावसायिक</item>
+        <item>ममीप इतर</item>
+        <item>ममीप छायाचित्रे</item>
+        <item>ममीप विडिओ</item>
+        <item>ममीप मिटींग्स व इतर माहिती</item>
+        <item>ममीप ऍड</item>
+        <item>ममीप मेम्बरशिप फॉर्म</item>
+        <item>ममीप वेबसाईटलिंक</item>
+        <item>ममीप सोशल मीडिया</item>
+    </string-array>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+</resources>
